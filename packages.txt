@@ -1,0 +1,6 @@
+IPython
+face_recognition
+numpy
+cv2
+cmake
+dlib
